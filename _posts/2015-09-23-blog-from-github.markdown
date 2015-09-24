@@ -17,4 +17,6 @@ Things to do:
 
 So I originally totally forgot the header part that tells everything this is a post, so hopefully this now looks much improved.
 
-<a href="https://en.wikipedia.org/wiki/Net_neutrality"><img src="https://openclipart.org/download/214980/Net-Neutrality-2015022652.svg" height="250" width="250" style="text-align:center"/></a>
+<div id="wrapper" style="width:100%; text-align:center">
+  <a href="https://en.wikipedia.org/wiki/Net_neutrality"><img   src="https://openclipart.org/download/214980/Net-Neutrality-2015022652.svg" height="250" width="250" /></a>
+</div>
