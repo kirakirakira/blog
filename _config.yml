@@ -10,3 +10,6 @@ github_username:  kirakirakira
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions:
+    - lax_spacing
