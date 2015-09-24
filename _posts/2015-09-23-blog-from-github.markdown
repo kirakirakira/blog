@@ -16,3 +16,5 @@ Things to do:
 </ul>
 
 So I originally totally forgot the header part that tells everything this is a post, so hopefully this now looks much improved.
+
+<a href="https://openclipart.org/detail/214980/net-neutrality"><img src="https://openclipart.org/download/214980/Net-Neutrality-2015022652.svg" /></a>
