@@ -22,6 +22,10 @@
     &:visited {
         color: $grey-color-dark;
     }
+    
+    &:hover {
+        color: lightpink;
+    }
 }
 
 .site-nav {
@@ -39,6 +43,10 @@
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+        
+        &:hover {
+            color: lightpink;
         }
     }
 
