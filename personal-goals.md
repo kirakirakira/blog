@@ -1,3 +1,9 @@
+---
+layout: page
+title: Personal Goals
+permalink: /personal_goals/
+---
+
 Personal Goals
 ==============
 
