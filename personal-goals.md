@@ -9,7 +9,7 @@ Personal Goals
 
 Personal goals made open source. (Forked from Una's personal goals starter: http://una.github.io/personal-goals-guide)
 
-Why? I realized what I have been doing and want to do is all over the place. I need to focuse more in order to learn more efficiently and effectively.
+Why? I realized what I have been doing and what I want to do is all over the place. I need to focus more in order to learn more efficiently and effectively.
 
 # Overarching Goals
 1. Learn front-end development
