@@ -19,6 +19,17 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 5. Learn about software (oops-- too generic!)
 6. Be kind
 
+# October 12, 2015
+
+### This Week's Goal: Be More Awesome.
+
+## Things I'll Do This Week:
+- [ ] Watch videos for Philosophy of Science class
+- [ ] Complete quiz for Philosophy of Science class
+- [ ] Japanese homework
+- [ ] Free Code Camp - finish Zipline: Javascript Calculator
+- [ ] Free Code Camp - complete a few algorithm scripting Bonfires
+
 # October 5, 2015
 
 ### This Week's Goal: Be Awesome.
@@ -40,3 +51,4 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Start actually blogging with my Jekyll blog that I got set up already
 - [ ] Lynda.com C Essential Training course
 - [ ] Watch these CS videos (Computer Science and Software Engineering Theory with Briana https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
+- [ ] Check out this site http://www.codewars.com/
