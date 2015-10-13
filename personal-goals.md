@@ -52,3 +52,4 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Lynda.com C Essential Training course
 - [ ] Watch these CS videos (Computer Science and Software Engineering Theory with Briana https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
 - [ ] Check out this site http://www.codewars.com/
+- [ ] Check out these podcasts: http://www.kickinbahk.com/blog/2015/8/26/resources-podcasts-9182015
