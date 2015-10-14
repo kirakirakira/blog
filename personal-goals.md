@@ -27,7 +27,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Watch videos for Philosophy of Science class
 - [ ] Complete quiz for Philosophy of Science class
 - [ ] Write essay for Philosophy of Science class
-- [ ] Japanese homework
+- [X] Japanese homework
 - [X] Free Code Camp - finish Zipline: Javascript Calculator
 - [ ] Free Code Camp - complete a few algorithm scripting Bonfires
 
