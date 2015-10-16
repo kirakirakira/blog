@@ -24,8 +24,8 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ### This Week's Goal: Be More Awesome.
 
 ## Things I'll Do This Week:
-- [ ] Watch videos for Philosophy of Science class
-- [ ] Complete quiz for Philosophy of Science class
+- [X] Watch videos for Philosophy of Science class
+- [X] Complete quiz for Philosophy of Science class
 - [ ] Write essay for Philosophy of Science class
 - [X] Japanese homework
 - [X] Free Code Camp - finish Zipline: Javascript Calculator
