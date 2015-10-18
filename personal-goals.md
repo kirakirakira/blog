@@ -26,7 +26,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ## Things I'll Do This Week:
 - [X] Watch videos for Philosophy of Science class
 - [X] Complete quiz for Philosophy of Science class
-- [ ] Write essay for Philosophy of Science class
+- [X] Write essay for Philosophy of Science class
 - [X] Japanese homework
 - [X] Free Code Camp - finish Zipline: Javascript Calculator
 - [ ] Free Code Camp - complete a few algorithm scripting Bonfires
