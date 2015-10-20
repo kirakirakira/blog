@@ -56,3 +56,4 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Check out these podcasts: http://www.kickinbahk.com/blog/2015/8/26/resources-podcasts-9182015
 - [ ] Start doing daily/weekly code katas (http://codekata.com/)
 - [ ] Take the MongoDB course for Node.js developers (next one will probably start Dec/ Jan)
+- [ ] Do the Django Girls tutorial - found this cool gitbook they made https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details
