@@ -19,6 +19,17 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 5. Learn about software (oops-- too generic!)
 6. Be kind
 
+# October 19, 2015
+
+### This Week's Goal: Be More Awesome.
+
+## Things I'll Do This Week:
+- [X] Watch videos for Philosophy of Science class
+- [X] Complete quiz for Philosophy of Science class
+- [X] Grade essays for Philosophy of Science class
+- [ ] Japanese homework
+- [ ] Free Code Camp - finish algorithm scripting Bonfires
+
 # October 12, 2015
 
 ### This Week's Goal: Be More Awesome.
