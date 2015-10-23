@@ -28,7 +28,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [X] Complete quiz for Philosophy of Science class
 - [X] Grade essays for Philosophy of Science class
 - [ ] Japanese homework
-- [ ] Free Code Camp - finish algorithm scripting Bonfires
+- [X] Free Code Camp - finish algorithm scripting Bonfires
 
 # October 12, 2015
 
