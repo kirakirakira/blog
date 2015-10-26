@@ -8,10 +8,6 @@ categories: jekyll blog
 Yesterday I bought a physical copy of "Learn C The Hard Way" by Zed Shaw, and I am going to go through the exercises over the next 3 months.
 It's really hard for me to stick with a book for some reason, I'm better with online classes with real deadlines. So I am going to map out a schedule here and try to stick with it.
 
-require 'redcarpet'
-markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, :tables => true)
-
-text = <<END
 | Week   |  Monday's Date |  Exercises |
 |--------|----------------|------------|
 | 1      |  10/26/2015    | 0, 1, 2, 3 |
@@ -28,7 +24,4 @@ text = <<END
 | 12     |  1/11/2016     | 44, 45, 46, 47 |
 | 13     |  1/18/2016     | 48, 49, 50, 51 |
 | 14     |  1/25/2016     | 52 |
-END
-
-puts markdown.render(text)
 
