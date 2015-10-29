@@ -1,0 +1,6 @@
+Make and Makefiles:
+
+CFLAGS = 
+
+`-Wall` - turns all warning reporting.
+`-Werror` - tells to make all warnings into errors.
