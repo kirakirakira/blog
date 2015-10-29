@@ -21,7 +21,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 
 # October 26, 2015
 
-### This Week's Goal: Be More Awesome.
+### This Week's Goal: Be more organized.
 
 ## Things I'll Do This Week:
 - [X] Watch videos for Philosophy of Science class
