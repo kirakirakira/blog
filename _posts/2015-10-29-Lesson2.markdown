@@ -4,3 +4,6 @@ CFLAGS =
 
 `-Wall` - turns all warning reporting.
 `-Werror` - tells to make all warnings into errors.
+
+http://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean
+http://www.linuxcommand.org/reading_man_pages.php
