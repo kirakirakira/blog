@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learn C The Hard Way"
+title:  "First go at Learn C The Hard Way"
 date:   2015-10-28 20:04:00
 categories: jekyll blog
 ---
