@@ -29,6 +29,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Japanese homework
 - [X] Free Code Camp - finish Wikipedia Viewer
 - [ ] Learn C The Hard Way - Exercises [X] 0 [ ] 1 [ ] 2 [ ] 3
+- [X] Free Code Camp - finish Stylize Camper News
 
 # October 19, 2015
 
