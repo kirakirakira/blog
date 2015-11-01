@@ -26,9 +26,9 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ## Things I'll Do This Week:
 - [X] Watch videos for Philosophy of Science class
 - [X] Complete quiz for Philosophy of Science class
-- [ ] Japanese homework
+- [ ] Japanese homework - Muhammad Ali 1 page
 - [X] Free Code Camp - finish Wikipedia Viewer
-- [ ] Learn C The Hard Way - Exercises [X] 0 [ ] 1 [ ] 2 [ ] 3
+- [ ] Learn C The Hard Way - Exercises [X] 0 [X] 1 [X] 2 [ ] 3
 - [X] Free Code Camp - finish Stylize Camper News
 
 # October 19, 2015
