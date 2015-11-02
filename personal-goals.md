@@ -19,6 +19,18 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 5. Learn about software (oops-- too generic!)
 6. Be kind
 
+# November 2, 2015
+
+### This Week's Goal: Focus more.
+
+## Things I'll Do This Week:
+- [ ] Watch videos for Philosophy of Science class
+- [ ] Complete quiz for Philosophy of Science class
+- [ ] Japanese homework - Muhammad Ali 1 page
+- [ ] Free Code Camp - finish Wikipedia Viewer
+- [ ] Learn C The Hard Way - Exercises [ ] 4 [ ] 5 [ ] 6 [ ] 7
+- [ ] Exercism - do 2 lua exercises and some nitpicks
+
 # October 26, 2015
 
 ### This Week's Goal: Be more organized.
@@ -28,7 +40,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [X] Complete quiz for Philosophy of Science class
 - [ ] Japanese homework - Muhammad Ali 1 page
 - [X] Free Code Camp - finish Wikipedia Viewer
-- [ ] Learn C The Hard Way - Exercises [X] 0 [X] 1 [X] 2 [ ] 3
+- [X] Learn C The Hard Way - Exercises [X] 0 [X] 1 [X] 2 [X] 3
 - [X] Free Code Camp - finish Stylize Camper News
 
 # October 19, 2015
