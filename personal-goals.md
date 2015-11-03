@@ -27,7 +27,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [X] Watch videos for Philosophy of Science class
 - [X] Complete quiz for Philosophy of Science class
 - [ ] Japanese homework - Muhammad Ali 1 page
-- [ ] Free Code Camp - finish Wikipedia Viewer
+- [ ] Free Code Camp - start Tic Tac Toe game
 - [ ] Learn C The Hard Way - Exercises [X] 4 [ ] 5 [ ] 6 [ ] 7
 - [ ] Exercism - do 2 lua exercises and some nitpicks
 
