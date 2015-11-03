@@ -24,8 +24,8 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ### This Week's Goal: Focus more.
 
 ## Things I'll Do This Week:
-- [ ] Watch videos for Philosophy of Science class
-- [ ] Complete quiz for Philosophy of Science class
+- [X] Watch videos for Philosophy of Science class
+- [X] Complete quiz for Philosophy of Science class
 - [ ] Japanese homework - Muhammad Ali 1 page
 - [ ] Free Code Camp - finish Wikipedia Viewer
 - [ ] Learn C The Hard Way - Exercises [ ] 4 [ ] 5 [ ] 6 [ ] 7
