@@ -95,3 +95,4 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Do the Django Girls tutorial - found this cool gitbook they made https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details
 - [ ] Add more features to the blog, check out this: http://joshualande.com/jekyll-github-pages-poole/
 - [ ] Learn about design with https://hackdesign.org/lessons
+- [ ] Learn about functional programming (https://www.udemy.com/understand-javascript/, http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming, http://code.tutsplus.com/courses/functional-programming-in-javascript)
