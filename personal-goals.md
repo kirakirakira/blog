@@ -29,7 +29,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Write essay for Philosophy of Science class
 - [X] Free Code Camp - finish pure JS Tic Tac Toe game w/ terminal input for actual game play
 - [ ] Learn C The Hard Way - Exercises [ ] 7 [ ] 8 [ ] 9 [ ] 10
-- [ ] Exercism - do 2 lua exercises and some nitpicks
+- [ ] Exercism - do 2 lua exercises and some nitpicks - [X ]
 - [X] Seven Languages in Seven Weeks - week 1 by Friday
 - [ ] Japanese homework
 
