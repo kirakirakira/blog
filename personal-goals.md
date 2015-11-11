@@ -24,11 +24,11 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ### This Week's Goal: Focus more.
 
 ## Things I'll Do This Week:
-- [ ] Watch videos for Philosophy of Science class
-- [ ] Complete quiz for Philosophy of Science class
+- [X] Watch videos for Philosophy of Science class
+- [X] Complete quiz for Philosophy of Science class
 - [ ] Write essay for Philosophy of Science class
 - [ ] Free Code Camp - finish pure JS Tic Tac Toe game w/ terminal input for actual game play
-- [ ] Learn C The Hard Way - Exercises [ ] 7 [ ] 8 [] 9 [ ] 10
+- [ ] Learn C The Hard Way - Exercises [ ] 7 [ ] 8 [ ] 9 [ ] 10
 - [ ] Exercism - do 2 lua exercises and some nitpicks
 - [X] Seven Languages in Seven Weeks - week 1 by Friday
 
