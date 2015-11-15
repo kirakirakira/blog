@@ -29,6 +29,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Exercism - do 2 lua exercises and some nitpicks - [X ]
 - [ ] Seven Languages in Seven Weeks - week 3
 - [ ] Japanese homework
+- [ ] Start Codepen version of my Tic Tac Toe game
 
 # November 9, 2015
 
