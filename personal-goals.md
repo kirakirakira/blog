@@ -19,6 +19,17 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 5. Learn about software (oops-- too generic!)
 6. Be kind
 
+# November 16, 2015
+
+### This Week's Goal: Focus more.
+
+## Things I'll Do This Week:
+- [ ] Peer review essays for Philosophy of Science class
+- [ ] Learn C The Hard Way - Exercises [ ] 7 [ ] 8 [ ] 9 [ ] 10
+- [ ] Exercism - do 2 lua exercises and some nitpicks - [X ]
+- [ ] Seven Languages in Seven Weeks - week 3
+- [ ] Japanese homework
+
 # November 9, 2015
 
 ### This Week's Goal: Focus more.
@@ -26,7 +37,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ## Things I'll Do This Week:
 - [X] Watch videos for Philosophy of Science class
 - [X] Complete quiz for Philosophy of Science class
-- [ ] Write essay for Philosophy of Science class
+- [X] Write essay for Philosophy of Science class
 - [X] Free Code Camp - finish pure JS Tic Tac Toe game w/ terminal input for actual game play
 - [ ] Learn C The Hard Way - Exercises [ ] 7 [ ] 8 [ ] 9 [ ] 10
 - [ ] Exercism - do 2 lua exercises and some nitpicks - [X ]
