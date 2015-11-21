@@ -24,7 +24,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 ### This Week's Goal: Focus more.
 
 ## Things I'll Do This Week:
-- [ ] Peer review essays for Philosophy of Science class (due by Sunday)
+- [X] Peer review essays for Philosophy of Science class (due by Sunday)
 - [ ] Learn C The Hard Way - Exercises [X] 7 [X] 8 [X] 9 [ ] 10 [ ] 11 [ ] 12 [ ] 13
 - [ ] Exercism - do 2 lua exercises and some nitpicks
 - [ ] Seven Languages in Seven Weeks - week 3 (not due until Friday after Thanksgiving)
