@@ -19,14 +19,14 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 5. Learn about software (oops-- too generic!)
 6. Be kind
 
-# November 16, 2015
+# November 16, 2015 & November 23, 2015
 
-### This Week's Goal: Focus more.
+### This Week's Goal: Enjoy the time off from work!
 
 ## Things I'll Do This Week:
 - [X] Peer review essays for Philosophy of Science class (due by Sunday)
-- [ ] Learn C The Hard Way - Exercises [X] 7 [X] 8 [X] 9 [ ] 10 [ ] 11 [ ] 12 [ ] 13
-- [ ] Exercism - do 2 lua exercises and some nitpicks
+- [ ] Learn C The Hard Way - Exercises [X] 7 [X] 8 [X] 9 [X] 10 [ ] 11 [ ] 12 [ ] 13
+- [ ] Exercism - do 2 lua exercises and some nitpicks (did some Javascript exercisms)
 - [ ] Seven Languages in Seven Weeks - week 3 (not due until Friday after Thanksgiving)
 - [ ] Japanese homework
 - [X] Start Codepen version of my Tic Tac Toe game
