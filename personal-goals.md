@@ -25,7 +25,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 
 ## Things I'll Do This Week:
 - [X] Peer review essays for Philosophy of Science class (due by Sunday)
-- [ ] Learn C The Hard Way - Exercises [X] 7 [X] 8 [X] 9 [X] 10 [ ] 11 [ ] 12 [ ] 13
+- [ ] Learn C The Hard Way - Exercises [X] 7 [X] 8 [X] 9 [X] 10 [X] 11 [X] 12 [ ] 13
 - [ ] Exercism - do 2 lua exercises and some nitpicks (did some Javascript exercisms)
 - [ ] Seven Languages in Seven Weeks - week 3 (not due until Friday after Thanksgiving)
 - [ ] Japanese homework
