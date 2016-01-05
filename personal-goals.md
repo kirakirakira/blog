@@ -4,8 +4,43 @@ title: Personal Goals
 permalink: /personal_goals/
 ---
 
-Personal Goals
+###Personal Goals
 ==============
+
+##January 2016 Update:
+So it's a new year, and I haven't listed any goals on here since November. December was really busy at work trying to finish up everything by the end of the year, and then I took 3 weeks off on vacation (yay!). Now to get back into the swing of things.
+
+#2016 Goals:
+1. Free Code Camp - Data Visualization certificate
+2. Free Code Camp - Back End certificate
+3. MongoDB for Node.js class certificate
+4. Finish Seven Languages in Seven Weeks
+5. Finish Learn C the Hard Way
+6. Blog more on here
+
+# January 5, 2016
+
+### This Week's Goal: Get used to doing work again.
+
+## Things I'll Do This Week:
+- [ ] Free Code Camp - finish learnyounode exercises
+- [ ] Seven Languages in Seven Weeks - week 1 of Io
+- [ ] Japanese homework
+- [ ] Week 1 homework for MongoDB for Node.js class
+- [ ] Bengals playoff game!
+
+# January 12, 2016
+
+### This Week's Goal: Work on getting used to doing work again.
+
+## Things I'll Do This Week:
+- [ ] Free Code Camp - ?
+- [ ] Learn C The Hard Way - Exercises [ ] 13
+- [ ] Seven Languages in Seven Weeks - week 2 of Io
+- [ ] Japanese homework
+- [ ] Week 2 homework for MongoDB for Node.js class
+
+***
 
 Personal goals made open source. (Forked from Una's personal goals starter: http://una.github.io/personal-goals-guide)
 
@@ -13,7 +48,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 
 # Overarching Goals
 1. Learn front-end development
-2. Earn the Free Code Camp Front-End Development Certificate before the end of 2015
+2. Earn the Free Code Camp Front-End Development Certificate before the end of 2015 -- COMPLETED!
 3. Use Github more
 4. Get better at communicating
 5. Learn about software (oops-- too generic!)
