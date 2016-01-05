@@ -4,13 +4,13 @@ title: Personal Goals
 permalink: /personal_goals/
 ---
 
-###Personal Goals
+#Personal Goals
 ==============
 
 ##January 2016 Update:
 So it's a new year, and I haven't listed any goals on here since November. December was really busy at work trying to finish up everything by the end of the year, and then I took 3 weeks off on vacation (yay!). Now to get back into the swing of things.
 
-#2016 Goals:
+###2016 Goals:
 1. Free Code Camp - Data Visualization certificate
 2. Free Code Camp - Back End certificate
 3. MongoDB for Node.js class certificate
@@ -22,7 +22,7 @@ So it's a new year, and I haven't listed any goals on here since November. Decem
 
 ### This Week's Goal: Get used to doing work again.
 
-## Things I'll Do This Week:
+### Things I'll Do This Week:
 - [ ] Free Code Camp - finish learnyounode exercises
 - [ ] Seven Languages in Seven Weeks - week 1 of Io
 - [ ] Japanese homework
@@ -33,7 +33,7 @@ So it's a new year, and I haven't listed any goals on here since November. Decem
 
 ### This Week's Goal: Work on getting used to doing work again.
 
-## Things I'll Do This Week:
+### Things I'll Do This Week:
 - [ ] Free Code Camp - ?
 - [ ] Learn C The Hard Way - Exercises [ ] 13
 - [ ] Seven Languages in Seven Weeks - week 2 of Io
