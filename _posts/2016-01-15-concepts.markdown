@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning concepts"
-date:   2015-01-15 16:28:00
+date:   2016-01-15 16:28:00
 categories: jekyll blog
 ---
 
