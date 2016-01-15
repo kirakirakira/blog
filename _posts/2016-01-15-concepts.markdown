@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Learning concepts"
+date:   2015-01-15 16:28:00
+categories: jekyll blog
+---
+
+One thing that has always been difficult for me is learning concepts and being able to explain them in words.
+I have always been good at math, and applying equations to solve problems in engineering, but it's hard for to verbalize what
+is actually physically going on sometimes. So with coding and learning on my own, I don't have many opportunities
+to speak about what's going on or even have to explain what I did or why or how I did something. It can be confusing when
+trying to learn new things when you can't always remember what a method is or an object, but you just used them in your code and
+you felt comfortable with it without really knowing that you already know what they are. It can also make googling for answers to problems
+difficult when you don't know the proper terminology as well. I'm sure I'll get better with more exposure, but I want to start
+making my own definitions for common terms to try to help them stick. With mechanical engineering, I have had to learn a lot about
+injection molding by experience, and I had to overcome talking about parting lines and gates when I didn't 100% fully know everything
+about them or even what they looked like at sometimes. Sometimes you just have to jump in and start talking, and if you say something
+completely off base, someone will let you know. And usually I've found, no one makes fun of you for it either.
