@@ -18,17 +18,24 @@ So it's a new year, and I haven't listed any goals on here since November. Decem
 5. Finish Learn C the Hard Way
 6. Blog more on here
 
+# January 15, 2016
+
+### Things I'll Do This Week:
+- [ ] Seven Languages in Seven Weeks - week 2 of Io
+- [ ] Japanese homework
+- [ ] Week 2 homework for MongoDB for Node.js class
+- [ ] Start a concept notebook (http://javascriptissexy.com/category/16-important-javascript-concepts/, http://sharkysoft.com/archive/1997/jsa/content/039.html, https://quizlet.com/12692411/javascript-terms-flash-cards/alphabetical)
+
 # January 5, 2016
 
 ### This Week's Goal: Get used to doing work again.
 
 ### Things I'll Do This Week:
 - [ ] Free Code Camp - finish learnyounode exercises
-- [ ] Seven Languages in Seven Weeks - week 1 of Io
-- [ ] Japanese homework
-- [ ] Week 1 homework for MongoDB for Node.js class
-- [ ] Bengals playoff game!
-- [ ] Start a concept notebook (http://javascriptissexy.com/category/16-important-javascript-concepts/, http://sharkysoft.com/archive/1997/jsa/content/039.html, https://quizlet.com/12692411/javascript-terms-flash-cards/alphabetical)
+- [X] Seven Languages in Seven Weeks - week 1 of Io
+- [X] Japanese homework
+- [X] Week 1 homework for MongoDB for Node.js class
+- [X] Bengals playoff game!
 
 # January 12, 2016
 
