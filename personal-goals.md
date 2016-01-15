@@ -28,6 +28,7 @@ So it's a new year, and I haven't listed any goals on here since November. Decem
 - [ ] Japanese homework
 - [ ] Week 1 homework for MongoDB for Node.js class
 - [ ] Bengals playoff game!
+- [ ] Start a concept notebook (http://javascriptissexy.com/category/16-important-javascript-concepts/, http://sharkysoft.com/archive/1997/jsa/content/039.html, https://quizlet.com/12692411/javascript-terms-flash-cards/alphabetical)
 
 # January 12, 2016
 
