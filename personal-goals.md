@@ -23,8 +23,8 @@ So it's a new year, and I haven't listed any goals on here since November. Decem
 ### Things I'll Do This Week:
 - [ ] Seven Languages in Seven Weeks - week 2 of Io
 - [ ] Japanese homework
-- [ ] Week 2 homework for MongoDB for Node.js class
-- [ ] Start a concept notebook (http://javascriptissexy.com/category/16-important-javascript-concepts/, http://sharkysoft.com/archive/1997/jsa/content/039.html, https://quizlet.com/12692411/javascript-terms-flash-cards/alphabetical)
+- [X] Week 2 homework for MongoDB for Node.js class
+- [X] Start a concept notebook (http://javascriptissexy.com/category/16-important-javascript-concepts/, http://sharkysoft.com/archive/1997/jsa/content/039.html, https://quizlet.com/12692411/javascript-terms-flash-cards/alphabetical)
 
 # January 5, 2016
 
