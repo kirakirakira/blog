@@ -11,6 +11,10 @@ Hey everyone this is my portfolio page.
         width: 30%;
         padding: 1%;
     }
+    
+    p {
+        float: left;
+    }
 </style>
 
 <a href="http://codepen.io/kirakirakira/full/OyJbwX/" target="_blank"><img src="http://i77.photobucket.com/albums/j49/kirakirakira7/Screen%20Shot%202015-09-05%20at%208.56.38%20AM_zpszgozbsbx.png" alt="Gilmore Girls Random Quote Generator"/></a>
