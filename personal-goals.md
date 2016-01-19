@@ -152,6 +152,7 @@ Why? I realized what I have been doing and what I want to do is all over the pla
 - [ ] Free Code Camp - finish all of the Intermediate Algorithm Scripting Bonfires
 
 ### Backlog:
+- [ ] Take this edX course on MEAN stack from MongoDB (https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x)
 - [ ] Build my own lisp (http://www.buildyourownlisp.com/chapter4_interactive_prompt)
 - [ ] Women Who Code - go through their learning C workshop material
 - [ ] Start actually blogging with my Jekyll blog that I got set up already
