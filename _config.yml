@@ -1,11 +1,11 @@
 # Site settings
 title: Kira's Blog
-email: kira.hartlage@gmail.com
+email:
 description: > # this means to ignore newlines until "baseurl:"
   My super sweet blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: kirahartlage
+twitter_username: 
 github_username:  kirakirakira
 
 # Build settings
