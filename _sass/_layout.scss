@@ -9,7 +9,7 @@
     // Positioning context for the mobile navigation icon
     position: fixed;
     width: 100%;
-    background-color: #2C2738;
+    background-color: darken($header-color, 10%);
 }
 
 .site-title {
@@ -26,7 +26,7 @@
     }
     
     &:hover {
-        color: lightpink;
+        color: $grey-color-light;
     }
 }
 
@@ -39,7 +39,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: lighten($text-color, 70%);
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -120,7 +120,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: lighten($text-color, 50%);
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -191,7 +191,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: lighten($text-color, 50%);
 }
 
 .post-link {
