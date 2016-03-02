@@ -4,13 +4,13 @@ title: Personal Goals
 permalink: /personal_goals/
 ---
 
-#Personal Goals
+# Personal Goals
 ==============
 
-##January 2016 Update:
+## January 2016 Update:
 So it's a new year, and I haven't listed any goals on here since November. December was really busy at work trying to finish up everything by the end of the year, and then I took 3 weeks off on vacation (yay!). Now to get back into the swing of things.
 
-###2016 Goals:
+### 2016 Goals:
 1. Free Code Camp - Data Visualization certificate
 2. Free Code Camp - Back End certificate
 3. MongoDB for Node.js class certificate (class almost complete!)
