@@ -13,10 +13,14 @@ So it's a new year, and I haven't listed any goals on here since November. Decem
 ###2016 Goals:
 1. Free Code Camp - Data Visualization certificate
 2. Free Code Camp - Back End certificate
-3. MongoDB for Node.js class certificate
-4. Finish Seven Languages in Seven Weeks
+3. MongoDB for Node.js class certificate (class almost complete!)
+4. Finish Seven Languages in Seven Weeks (on week 4!)
 5. Finish Learn C the Hard Way
 6. Blog more on here
+
+# March 1, 2016
+
+Really need to get back into this making weekly goals thing.
 
 # January 15, 2016
 
